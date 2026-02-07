@@ -144,6 +144,7 @@ Dock Board benefits:
 ---
 
 ## 🔌 Circuit Connections
+<img width="1280" height="720" alt="Subheading (4)" src="https://github.com/user-attachments/assets/88fee71c-c81c-4fdd-8838-f7f3d79cc2c6" />
 
 ### DF2301Q → ESP32-S3 Box3  
 - RX → GPIO 44  
@@ -165,7 +166,11 @@ Dock Board benefits:
 
 ### Buzzer → ESP32-S3 Box3  
 - GND → GND  
-- VCC → GPIO 41  
+- VCC → GPIO 41
+
+### Motor → ESP32-S3 Box3  
+- GND → GND  
+- VCC → GPIO 21  
 
 ---
 
