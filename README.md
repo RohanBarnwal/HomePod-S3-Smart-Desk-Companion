@@ -1,4 +1,4 @@
-<img width="1280" height="720" alt="Subheading (1)" src="https://github.com/user-attachments/assets/9d4fc17b-9a93-4ad1-b1e2-216704b05f38" /># HomePod S3 – Smart Desk Companion
+# HomePod S3 – Smart Desk Companion
 ![IMG_8774](https://github.com/user-attachments/assets/a5b2c33d-e3e2-4916-8235-98ffd8162230)
 
 
